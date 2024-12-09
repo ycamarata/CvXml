@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cv>
+    <titre>CV XML</titre>
+    <nom>Yannick CAMARATA</nom>
+    <adresse>
+        <rue>49 bis rue Ernest Renan</rue>
+        <cp>34500</cp>
+        <ville>Béziers</ville>
+    </adresse>
+
+    <xps>
+        <titre2>Expériences</titre2>
+        <xp>Du 15/07/19 au 28/10/22: Agent funéraire, Pech Bleu</xp>
+        <xp>Du 29/07/17 au 14/07/19: Agent funéraire, Maisons d'intérim</xp>
+        <xp>Du 06/04/17 au 28/07/17: Agent funéraire, Pech Bleu (CDD), Béziers</xp>
+        <xp>Du 01/11/15 au 05/04/17: Agent funéraire, Maisons d'intérim</xp>
+        <xp>Du 15/12/14 au 31/10/15: Agent funéraire, L'Agathoise du funéraire (CDD)</xp>
+        <xp>Du 01/08/11 au 31/08/11: Agent technique, mairie de Portiragnes</xp>
+        <xp>Du 12/08/09 au 28/08/09: Agent d'entretien des espaces verts, SSEN, Sète</xp>
+        <titre2>Stages et alternance :</titre2>
+        <xp>Du 27/10/14 au 17/11/14: Agent funérairen L'Agathoise du funéraire (stage)</xp>
+        <xp>Du 29/09/13 au 31/10/13: Electricien bâtiment, Ent.AUDOUARD (stage)</xp>
+        <xp>Du 19/09/11 au 19/09/12: Producteur de ligne de production, Le Fournil Bitterois (alternance Bac pro PSPA)</xp>
+        <xp>Du 08/11/10 au 03/12/10: Stage en électricité industrielle à Sète, SEIRA</xp>
+        <xp>Du 04/01/10 au 22/01/10: Stage en électricité générale à Sète, ABAJOUR</xp>
+        <xp>Du 22/03/10 au 09/04/10: Stage en électricité générale à Sète, ABAJOUR</xp>
+    </xps>
+
+    <formation>
+        <titre2>Formations:</titre2>
+        <diplome>
+            <etablissement>ADRAR Toulouse</etablissement>
+            <dateObtention>2023</dateObtention>
+            <intitule>Compétences Plus</intitule>
+        </diplome>
+
+        <diplome>
+            <etablissement>CCI Castres</etablissement>
+            <dateObtention>2016</dateObtention>
+            <intitule>Diplôme Conseiller Funéraire</intitule>
+        </diplome>
+
+        <diplome>
+            <etablissement>CCI Nîmes</etablissement>
+            <dateObtention>2013</dateObtention>
+            <intitule>BAC pro PSPA (niveau)</intitule>
+        </diplome>
+
+        <diplome>
+            <etablissement>Lycée privé Sacré Coeur à Béziers</etablissement>
+            <dateObtention>2011</dateObtention>
+            <intitule>BEP Electrotechnique (obtenu)</intitule>
+        </diplome>
+    </formation>
+
+</cv>
+
+
